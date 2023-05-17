@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "alsiplfmw5hl7wrzf5v",
+      "name": "Crema de cacahuate chunky",
+      "price": "250",
+      "stock": 95,
+      "shortDesc": "Órganica",
+      "description": "Crema de cacahuate 100% orgánica, con pedazos de cacahuate crujientes en tu paladar",
+      "image": "images/cremacacahuate3.jpg"
+    },
+    {
+      "id": "563ob5sk9fil7ws13j5",
+      "name": "Crema de cacahuate ",
+      "price": "255",
+      "stock": "200",
+      "shortDesc": "",
+      "description": "Crema de cacahuate 100% orgánica, hecha por artesanos mexicanos, se derrite en tu paladar",
+      "image": "images/crema_cacahuate.jpg"
+    },
+    {
+      "id": "nbgnhhkktkdl7wsnw6x",
+      "name": "Cacahuate natural",
+      "price": "75",
+      "stock": 198,
+      "shortDesc": "Cacahuate natural",
+      "description": "Cacahuate natural sin cáscara, 100% orgánico, empacado al alto vacío",
+      "image": "images/cacahuatenatural.jpg"
+    },
+    {
+      "id": "gwcejlo1x3ml7wsoyk3",
+      "name": "Cacahuate tostado",
+      "price": "85",
+      "stock": "200",
+      "shortDesc": "Cacahuate tostado",
+      "description": "Cacahuate tostado naturalmente, sin grasa y sin conservadores, 100% orgánico y empacado al alto vacío.",
+      "image": "images/cacahuatesinsal.jpg"
+    },
+    {
+      "id": "vub00xxh78ml7wsqiy6",
+      "name": "Cacahuate natural con cáscara",
+      "price": "85",
+      "stock": "305",
+      "shortDesc": "Cacahuate natural con cáscara",
+      "description": "Cacahuate natural con cáscara 100% orgánico, empacado al alto vacío para una mejor conservación.",
+      "image": "images/cacahuatesinsal.jpg"
+    },
+    {
+      "id": "u0qvici0h5nl7wsspe8",
+      "name": "Crema de cacahuate sin azúcar añadida",
+      "price": "230",
+      "stock": "211",
+      "shortDesc": "Crema de cacahuate sin azúcar añadida",
+      "description": "Crema de cacahuate sin azúcar añadida, ni endulzantes, 100% orgánica, ",
+      "image": "images/mantequillacacahuate.jpg"
+    },
+    {
+      "id": "mnbq6emlzx7l7wsu1up",
+      "name": "Crema de cacahuate con Stevia",
+      "price": "256",
+      "stock": "245",
+      "shortDesc": "Crema de cacahuate con Stevia",
+      "description": "Crema de cacahuate endulzada con Stevia natural, 100% orgánica, este producto no se recomienda para el uso en niños por contener endulcolorantes naturales.",
+      "image": "images/crema_cacahuate.jpg"
+    },
+    {
+      "id": "pq6t291fh4jl7wtda8o",
+      "name": "Cacahuate tostado con sal",
+      "price": "94",
+      "stock": "124",
+      "shortDesc": "Cacahuate tostado con sal",
+      "description": "Cacahuate tostado con sal de mar, 100% orgánico, sin conservadores añadidos, empacado al alto vacío para asegurar su frescura",
+      "image": "images/cacahuatenatural.jpg"
+    }
+  ]
+}
