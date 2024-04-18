@@ -4,7 +4,8 @@ export default function Contacto() {
   return <>  
 <div className="columns">
 <div className="column is-4 is-offset-8">
-  
+
+
   </div>
 </div>
 
@@ -61,7 +62,18 @@ export default function Contacto() {
       <i className="fab fa-@gmail"></i>
     </span>
     <span>@gmail</span>
+
 </a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fta9R_urH1Y?si=Zm2DzCM2WZOowvfi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<footer>
+  <p>Conceptualización de servicios en la nube</p>
+
+ <p>Alma Topete Virgen</p>
+  <p>Código 222353004</p>
+   <p>correo: alma_topetevirgen@hotmail.com</p>
+  
+</footer>
   </div>
 </div>
 

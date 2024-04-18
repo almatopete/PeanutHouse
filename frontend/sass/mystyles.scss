@@ -21,3 +21,12 @@ $fa-font-path: "~font-awesome/fonts/";
 // Import only what you need from Bulma
 @import "../node_modules/bulma/bulma.sass";
 @import "../node_modules/font-awesome/scss/font-awesome.scss";
+
+
+body {
+    // Use the background property to specify the background image
+    background: url('../../public/images/421.jpg') no-repeat center center;
+    
+    // You can also specify additional background properties, such as size
+    background-size: cover;
+}
